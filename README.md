@@ -13,13 +13,15 @@ Featuring a neon-soaked interface, animated audio visualization and a custom dua
 
 ---
 
-## 📸 Screenshots
+
 
 ## 🎬 NeonPlayer 2.0 — Video Walkthrough
 
 [![NeonPlayer 2.0 Video Walkthrough](https://img.youtube.com/vi/dVA5soJM36w/maxresdefault.jpg)](https://www.youtube.com/watch?v=dVA5soJM36w)
 
 *Watch NeonPlayer in action!*
+
+## 📸 Screenshots
 
 <img width="756" height="506" alt="Screenshot_20261113_202350" src="https://github.com/user-attachments/assets/79b90873-7ee9-4d88-bada-3561f914d9a4" />
 <img width="1917" height="1080" alt="Screenshot_20261113_202339" src="https://github.com/user-attachments/assets/5274826e-8332-4ec9-b08b-d469f89006f2" />
