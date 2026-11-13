@@ -1,0 +1,4 @@
+qt.multimedia.ffmpeg: Using Qt multimedia with FFmpeg version 9.0.1 LGPL version 2.1 or later
+<frozen importlib._bootstrap>:491: RuntimeWarning: Your system is avx2 capable but pygame was not built with support for it. The performance of some of your blits could be adversely affected. Consider enabling compile time detection with environment variables like PYGAME_DETECT_AVX2=1 if you are compiling without cross compilation.
+qt.qpa.wayland: Failed to create popup. Ensure popup  QWidgetWindow(0x5647d0566d60, name="qtooltip_labelWindow") has a transientParent set.
+qt.qpa.wayland: Failed to create popup. Ensure popup  QWidgetWindow(0x5647d0566d60, name="qtooltip_labelWindow") has a transientParent set.
