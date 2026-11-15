@@ -3,7 +3,7 @@
 
 ### Your music. Your world. Your frequency.
 
-**NeonPlayer** is a futuristic, cyberpunk-inspired desktop music player for Linux, built with Python and PyQt6.
+**NeonPlayer** is a futuristic, cyberpunk-inspired desktop music player for Linux & Windows x64, built with Python and PyQt6.
 
 Designed to combine an immersive visual experience with powerful music library management, NeonPlayer brings together album artwork browsing, advanced audio playback, gamepad navigation and Linux desktop integration in one distinctive application.
 
