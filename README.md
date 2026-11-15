@@ -9,7 +9,7 @@ Designed to combine an immersive visual experience with powerful music library m
 
 Featuring a neon-soaked interface, animated audio visualization and a custom dual-player playback engine, NeonPlayer is designed for people who want more from their desktop music experience.
 
-<sub>Linux Desktop Application · Python · PyQt6 · AppImage</sub>
+<sub>Linux Desktop Application · Python · PyQt6 · AppImage . Windows x64 EXE</sub>
 
 ---
 
@@ -164,7 +164,7 @@ The application includes bundled fonts to support international character render
 
 ## 📥 Installation
 
-### Recommended: AppImage
+### Recommended: AppImage (Windows x64 EXE Now available in releases!)
 
 The easiest way to use NeonPlayer is through the prebuilt Linux AppImage.
 
