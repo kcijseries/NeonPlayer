@@ -13,6 +13,25 @@ Featuring a neon-soaked interface, animated audio visualization and a custom dua
 
 ---
 
+## ☕ Support Neon Player
+
+If you enjoy using Neon Player and would like to support its development, donations are always appreciated!
+
+<p align="center">
+  <a href="https://wise.com/pay/me/kevinc3941">
+    <img src="assets/wise-donation-qr.png" width="250" alt="Donate via Wise"/>
+  </a>
+  <br/>
+  <strong>Scan to donate or click the QR code to pay via Wise.</strong>
+  <br/><br/>
+  <a href="https://wise.com/pay/me/kevinc3941">
+    <img src="https://img.shields.io/badge/Donate%20via-Wise-9FE870?style=for-the-badge&logo=wise&logoColor=163300" alt="Donate via Wise"/>
+  </a>
+</p>
+
+
+---
+
 
 
 ## 🎬 NeonPlayer 2.0 — Video Walkthrough
