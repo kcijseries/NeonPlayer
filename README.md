@@ -19,7 +19,7 @@ If you enjoy using Neon Player and would like to support its development, donati
 
 <p align="center">
   <a href="https://wise.com/pay/me/kevinc3941">
-    <img src="assets/wise-donation-qr.png" width="250" alt="Donate via Wise"/>
+    <img width="270" height="330" alt="download" src="https://github.com/user-attachments/assets/db8d8463-23d9-4b9e-9ee6-fe184bc7eb60" />
   </a>
   <br/>
   <strong>Scan to donate or click the QR code to pay via Wise.</strong>
