@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+if [[ "$1 $2 $3" == "-W always -c" ]]; then
+  echo 'RuntimeWarning: Your system is avx2 capable but pygame was not built with support for it.' >&2
+  exit 0
+fi
+if [[ "$1 $2" == "-m pip" ]]; then
+  printf 'pip-call:'; printf ' <%s>' "$@"; printf '\n' >> "${MOCK_LOG}"
+  exit 0
+fi
+exit 0
