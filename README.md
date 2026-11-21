@@ -13,6 +13,27 @@ Featuring a neon-soaked interface, animated audio visualization and a custom dua
 
 ---
 
+## 🚀 Latest Version: 2.1.0
+
+**NeonPlayer 2.1.0 is here!**
+
+The latest release brings visualizer improvements, performance enhancements and expanded distribution support.
+
+### ✨ What's New in 2.1.0
+
+- **GPU-Accelerated Visualizer** – Improved visualizer rendering using OpenGL shaders.
+- **Visualizer Improvements** – Refinements to the original audio-reactive visualizer.
+- **Artwork Caching** – Improved artwork caching and library scanning feedback.
+- **Settings Improvements** – Better persistence of visualizer preferences and settings.
+- **Windows Support** – New native Windows x64 version, distributed as an installer.
+- **General Improvements** – Bug fixes, refinements and performance improvements.
+
+**Available for Linux and Windows x64.**
+
+[⬇️ Download NeonPlayer 2.1.0](https://github.com/kcijseries/NeonPlayer/releases)
+
+---
+
 ## ☕ Support Neon Player
 
 If you enjoy using Neon Player and would like to support its development, donations are always appreciated!
